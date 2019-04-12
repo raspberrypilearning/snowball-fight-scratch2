@@ -1,48 +1,61 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/snowball-fight).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+In this project you're going to make a game in which you have to throw snowballs at a target. 
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+
+Use the mouse pointer to angle the snowball and hold down the mouse button to choose the snowball's power.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/301858998/?autostart=true" frameborder="0" scrolling="no"></iframe>
+  <img src="images/snow-final.png">
 </div>
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+![complete project](images/snow-final.png)
+
 --- /print-only ---
 
 --- collapse ---
+
 ---
 title: What you will need
 ---
+
 ### Hardware
 
-+ Describe hardware here
++ A computer capable of running Scratch
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ Scratch 2.0 [offline](http://rpf.io/scratchoff){:target="_blank"}
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+The starter project can be found [here](http://rpf.io/p/en/snowball-fight-scratch2-go){:target="_blank"}.
 
 --- /collapse ---
 
 --- collapse ---
+
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
+- How to animated sprites
+- How to react to mouse input 
+- how to use broadcasts
 
 --- /collapse ---
 
@@ -51,8 +64,12 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+--- no-print ---
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/snowball-fight-scratch2/print){:target="_blank"}.
+
+--- /no-print ---
+
+You can [find the solution for this project here](http://rpf.io/p/en/snowball-fight-scratch2-get){:target="_blank"}.
 
 --- /collapse ---

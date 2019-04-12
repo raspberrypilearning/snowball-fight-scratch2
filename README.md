@@ -1,6 +1,6 @@
-# snowball-fight-scratch2
+# snowball-fight
 
-![snowball-fight-scratch2](banner.png)
+![snowball-fight](en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/snowball-fight-scratch2](https://projects.raspberrypi.org/en/projects/snowball-fight-scratch2)
 
