@@ -7,7 +7,7 @@ Open the Scratch [starter project](http://rpf.io/p/en/snowball-fight-scratch2-go
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank stage and snowball sprite ....
+In the starter project, you should see a blank stage and snowball sprite.
 
 --- /task ---
 

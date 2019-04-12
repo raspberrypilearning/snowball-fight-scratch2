@@ -64,9 +64,15 @@ To fix this, you can add an `if`{:class="blockcontrol"} block to your code, so t
 ![snowball sprite](images/snowball-sprite.png)
 
 ```blocks
-if < (power) > (0) > then
-	change [power v] by (-0.25)
+when I receive [throw v]
+switch costume to [snowball v]
+repeat until < touching [edge v]? >
+	move (power) steps
++	if < (power) > (0) > then
+		change [power v] by (-0.25)
+	end
 end
+hide
 ```
 
 --- /task ---
