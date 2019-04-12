@@ -39,12 +39,6 @@ Test out your new code.
 
 --- task ---
 
-task
-
---- /task ---
-
---- task ---
-
 Let's do a couple of things to make the game harder. First, let's move the bear each time the player throws the snowball.
 
 To do this, first add a `broadcast`{:class="blockcontrol"} to your snowball, near the top of your `forever`{:class="blockcontrol"} loop. This will let your bear know that a new shot is about to be taken.
